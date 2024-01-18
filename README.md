@@ -4,3 +4,10 @@ I'm a passionate and versatile Full Stack Developer with a strong foundation in 
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,jquery,express,nodejs,react,nextjs,flask,docker,mongodb,postgres,firebase,ts,github,nginx,aws,linux)](https://skillicons.dev)
+
+| LeetCode                                                        |
+| :-------------------------------------------------------------- |
+| [![Leetcode Statistics][leetcode-statistics]][leetcode-profile] |
+
+[leetcode-profile]: https://leetcode.com/WilliamFly
+[leetcode-statistics]: https://leetcode.card.workers.dev/?username=WilliamFly
