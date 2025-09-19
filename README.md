@@ -1,13 +1,9 @@
-## 👋 Hello, I'm William Mucha!
+## William Mucha -  Expanding Business Ops with Custom A.I & Proven CRM 
 
-I'm a passionate and versatile Full Stack Developer with a strong foundation in web development and a knack for turning innovative ideas into fully functional applications.
+I don’t “dabble.” I win.
+National swim captain, multi-year MVP.
+CS @ the best uni in Canada. Lead dev in a year.
+Shopify / Moneris / Peoples Bank -> shipped.
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,jquery,express,nodejs,react,nextjs,flask,docker,mongodb,postgres,firebase,ts,github,nginx,aws,linux)](https://skillicons.dev)
-
-| LeetCode                                                        |
-| :-------------------------------------------------------------- |
-| [![Leetcode Statistics][leetcode-statistics]][leetcode-profile] |
-
-[leetcode-profile]: https://leetcode.com/WilliamFly
-[leetcode-statistics]: https://leetcode.card.workers.dev/?username=WilliamFly
+Today I install leverage: AI voice + custom CRM that never drops a lead.
+Faster response. Tighter ops. More booked revenue. Period.
